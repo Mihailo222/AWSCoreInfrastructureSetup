@@ -14,3 +14,6 @@ We wrapped EC2 instance with **security group**. The security group is going to 
 Our Virtual Machine needs to reach outside the outside of internet. How does it do that? Well, it's called **internet gateway**.<br/>
 
 How does our virtual machine know where to go when reaching the internet - the **rout table** helps it.<br/>
+
+Can we upgrade this project? Yes, by adding AWS virtual firewalls and other AWS monitoring tools used in following projects. <br/>
+
