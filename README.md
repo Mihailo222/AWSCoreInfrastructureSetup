@@ -1,4 +1,4 @@
-<h1>Personal project - Using Terraform IaC tool for setting up AWS core infrastructure</h1>
+<h1>AWS PROJECTS/Personal project - Using Terraform IaC tool for setting up AWS core infrastructure</h1>
 <h3> (using IaC tool Terraform to build a core infrastructure behind most cloud projects) </h3>
 
 ![Screenshot (1490)](https://github.com/Mihailo222/AWSCoreInfrastructureSetup/assets/92820769/8a44dab9-7719-407d-9d04-afa9ec738709)
